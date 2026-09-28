@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Robindeep Kaur 👋
 
-<!--
-**robinchahal082-sudo/robinchahal082-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (Data Science) | Python | Machine Learning | SQL | Web Development
 
-Here are some ideas to get you started:
+I'm interested in Data Science, Machine Learning and Web Development. 
+I enjoy building practical projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python • SQL • Machine Learning • Pandas • NumPy • Power BI • HTML • CSS • JavaScript • PHP • MySQL
+
+### Projects
+- Email/SMS Spam Detection
+- Club Management System
+- Portfolio Website
+- Expense Tracker
+- Image Captioning(currently working)
