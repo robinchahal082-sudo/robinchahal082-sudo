@@ -9,8 +9,8 @@ I enjoy building practical projects and learning new technologies.
 Python • SQL • Machine Learning • Pandas • NumPy • Power BI • HTML • CSS • JavaScript • PHP • MySQL
 
 ### Projects
-- Email/SMS Spam Detection
-- Club Management System
-- Portfolio Website
+- Spam_sms_classifier 
+- smart_club_management_system
+- my_portfolio Website
 - Expense Tracker
 - Image Captioning(currently working)
