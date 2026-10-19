@@ -9,8 +9,9 @@ I enjoy building practical projects and learning new technologies.
 Python • SQL • Machine Learning • Pandas • NumPy • Power BI • HTML • CSS • JavaScript • PHP • MySQL
 
 ### Projects
-- Spam_sms_classifier 
-- smart_club_management_system
+- Spam sms classifier 
+- smart club management system
 - my_portfolio Website
-- Expense Tracker
-- Image Captioning(currently working)
+- ResumeCraft
+- Akal Alumni Portal(currently working)
+- MedSeg-Structure-Aware  Medical Document Segmenation and Retrieval Augmented Generation(currently working)
